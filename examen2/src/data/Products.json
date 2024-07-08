@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "name": "Samsung M13",
+      "description": "Hasta mi última actualización en enero de 2022, no tengo información específica sobre un modelo de Samsung llamado M13. Es posible que sea un modelo lanzado después de esa fecha o que sea una referencia errónea. Para obtener detalles precisos sobre un dispositivo específico de Samsung, te recomendaría consultar fuentes actualizadas o el sitio web oficial de Samsung.",
+      "price": 240.00,
+      "photo":"https://images.fravega.com/f500/1b0c59c90ae2b565aeb0c3a37a7921e8.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Macbook pro 2012",
+      "description": "El MacBook Pro de 2012 es parte de la línea de portátiles de Apple lanzada ese año. Este modelo se destacó por su diseño delgado y elegante, con una pantalla de alta resolución y un rendimiento potente gracias a sus procesadores Intel Core de tercera generación (Ivy Bridge). Ofrecía diversas configuraciones de almacenamiento y memoria RAM, así como opciones de pantalla de 13 y 15 pulgadas. Además, contaba con puertos USB 3.0, Thunderbolt y una unidad óptica (en modelos seleccionados), haciendo de él una opción popular para profesionales y usuarios exigentes en su momento.",
+      "price": 1240.00,
+      "photo":"https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2021/04/macbook-pro-2012-retina-scaled.jpg?fit=2560%2C1708&quality=50&strip=all&ssl=1"
+      
+    },
+    {
+      "id": 3,
+      "name": "Samsung A24",
+      "description": "Hasta mi última actualización en enero de 2022, no tengo información específica sobre un modelo de Samsung llamado A24. Es posible que sea un modelo lanzado después de esa fecha o que sea una referencia errónea. Para obtener detalles precisos sobre un dispositivo específico de Samsung, te recomendaría consultar fuentes actualizadas o el sitio web oficial de Samsung."
+      ,
+      "price": 330.00,
+      "photo":"https://http2.mlstatic.com/D_NQ_NP_668087-MLU74182497743_012024-O.webp"
+    },
+    {
+        "id": 3,
+        "name": "Samsung A72",
+        "description": "El Samsung Galaxy A72 es un teléfono inteligente de gama media alta lanzado por Samsung. Este dispositivo se destaca por su pantalla Super AMOLED de 6.7 pulgadas con resolución Full HD+ y una frecuencia de actualización de 90 Hz, lo que proporciona una experiencia visual nítida y fluida.",
+        "price": 300.00,
+        "photo":"https://m.media-amazon.com/images/I/51leEZpgZPS._AC_SL1000_.jpg"
+      }
+  ]
+  
